@@ -6,5 +6,5 @@
 ![A snapshot of application for swirling](Media/ver-0-0-0-1-snap-swirl.jpg) *Figure 1: A snapshot of Swirling.*
 ---
 ![A snapshot of application for Rippling](Media/ver-0-0-0-1-snap-ripplev.jpg) *Figure 2: A snapshot of Rippling vertically.*
-
+---
 
