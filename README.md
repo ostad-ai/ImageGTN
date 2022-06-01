@@ -1,6 +1,6 @@
 # ImageGTN
 ### Newest, Version 0.0.0.5
-1. image blending is added
+1. Image Blending is added.
 ## This executable program is for manipulating images.
 [Download the stand-alone program for win64](https://drive.google.com/file/d/1IA-dhFIdOR4LaE_IWwEUvK6zdZHnYlFd/view?usp=sharing)
 ### Earlier, Version 0.0.0.4
@@ -24,5 +24,5 @@
 ---
 ![A snapshot of application for Color Modification](Media/ver-0-0-0-4-snap-color.jpg) *Figure 6: A snapshot of Color Modification.*
 ---
-![A snapshot of application for Image Blending](Media/ver-0-0-0-4-snap-blend.jpg) *Figure 7: A snapshot of Image Blending.*
+![A snapshot of application for Image Blending](Media/ver-0-0-0-5-snap-blend.jpg) *Figure 7: A snapshot of Image Blending.*
 ---
