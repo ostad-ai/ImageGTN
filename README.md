@@ -1,5 +1,6 @@
 # ImageGTN
 ### Newest, Version 0.0.0.6
+1. Filtering section has been added to the program.
 ## This executable program is for manipulating images.
 [Download the stand-alone program for win64](https://drive.google.com/file/d/1G0E_1Th7GCbSRIV4MKj22CLSHOCeMapi/view?usp=sharing)
 ### Earlier, Version 0.0.0.5
