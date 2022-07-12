@@ -1,8 +1,10 @@
 # ImageGTN
-### Newest, Version 0.0.0.6
-1. Filtering section has been added to the program.
+### Newest, Version 0.0.0.7
+1. Tiling with one image is icluded in the new update with different techniques.
 ## This executable program is for manipulating images.
-[Download the stand-alone program for win64](https://drive.google.com/file/d/1G0E_1Th7GCbSRIV4MKj22CLSHOCeMapi/view?usp=sharing)
+[Download the stand-alone program for win64](https://drive.google.com/file/d/1hTUiZ7cbsZK1FVaMkBrfpA4hI9c1vMi4/view?usp=sharing)
+### Earlier, version 0.0.0.6
+1. Filtering section has been added to the program.
 ### Earlier, Version 0.0.0.5
 1. Image Blending is added.
 ### Earlier, Version 0.0.0.4
@@ -29,4 +31,6 @@
 ![A snapshot of application for Image Blending](Media/ver-0-0-0-5-snap-blend.jpg) *Figure 7: A snapshot of Image Blending.*
 ---
 ![A snapshot of application for Image Filtering](Media/ver-0-0-0-6-snap-filtering.jpg) *Figure 8: A snapshot of Image Filtering.*
+---
+![A snapshot of application for Image Tiling](Media/ver-0-0-0-7-snap-tiling.jpg) *Figure 9: A snapshot of Image Tiling.*
 ---
