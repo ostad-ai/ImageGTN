@@ -1,8 +1,10 @@
 # ImageGTN
-### Newest, Version 0.0.0.7
-1. Tiling with one image is icluded in the new update with different techniques.
+### Newest, Version 0.0.0.8
+1. Kaleidoscope using an input image is added to the new update.
 ## This executable program is for manipulating images.
-[Download the stand-alone program for win64](https://drive.google.com/file/d/1hTUiZ7cbsZK1FVaMkBrfpA4hI9c1vMi4/view?usp=sharing)
+[Download the stand-alone program for win64](https://drive.google.com/file/d/1LXXYUCPtZvVYmk7qx97YoNA41vW4A14C/view?usp=sharing)
+### Earlier, version 0.0.0.7
+1. Tiling with one image is included in the new update with different techniques.
 ### Earlier, version 0.0.0.6
 1. Filtering section has been added to the program.
 ### Earlier, Version 0.0.0.5
@@ -33,4 +35,6 @@
 ![A snapshot of application for Image Filtering](Media/ver-0-0-0-6-snap-filtering.jpg) *Figure 8: A snapshot of Image Filtering.*
 ---
 ![A snapshot of application for Image Tiling](Media/ver-0-0-0-7-snap-tiling.jpg) *Figure 9: A snapshot of Image Tiling.*
+---
+![A snapshot of application for doing Kaleidoscope](Media/ver-0-0-0-8-snap-kaleidoscope.jpg) *Figure 10: A snapshot of doing Kaleidoscope on an input image.*
 ---
