@@ -1,8 +1,10 @@
 # ImageGTN
-### Newest, Version 0.0.0.8
-1. Kaleidoscope using an input image is added to the new update.
+### Newest, Version 0.0.0.9
+1. An input image is subdivided by **Voronoi** diagram. Also, we can show the edges of Voronoi cells.
 ## This executable program is for manipulating images.
-[Download the stand-alone program for win64](https://drive.google.com/file/d/1LXXYUCPtZvVYmk7qx97YoNA41vW4A14C/view?usp=sharing)
+[Download the stand-alone program for win64](https://drive.google.com/file/d/1132HzGupRyvMHLlkTuNMNXFFazOP_i4Z/view?usp=sharing)
+### Earlier, version 0.0.0.8
+1. **Kaleidoscope** using an input image is added to the new update.
 ### Earlier, version 0.0.0.7
 1. Tiling with one image is included in the new update with different techniques.
 ### Earlier, version 0.0.0.6
@@ -37,4 +39,6 @@
 ![A snapshot of application for Image Tiling](Media/ver-0-0-0-7-snap-tiling.jpg) *Figure 9: A snapshot of Image Tiling.*
 ---
 ![A snapshot of application for doing Kaleidoscope](Media/ver-0-0-0-8-snap-kaleidoscope.jpg) *Figure 10: A snapshot of doing Kaleidoscope on an input image.*
+---
+![A snapshot of application for doing Voronoi subdivision](Media/ver-0-0-0-9-snap-voronoi.jpg) *Figure 11: A snapshot of subdividing the image with Voronoi digaram.*
 ---
